@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yusefmu, or Yusef Muhammad
+  - 👋 Hi, I’m @yusefmu, or Yusef Muhammad
 - 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning C++ and Linux
-- 📫 How to reach me: ymuham80@gmail.com
+- 📫 How to reach me: m.yusef.ramo@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I interned at a national lab!
 
